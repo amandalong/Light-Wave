@@ -94,12 +94,6 @@ Check the json is file is the correct folder
 sudo find / -name "fcserver*"
 /usr/local/bin/fcserver.json
 
-To run it in one terminal window type (or up arrow :) 
-
-sudo /usr/local/bin/fcserver /usr/local/bin/fcserver.json
-
-
-and leave it. 
 
 #Change the serial number to match your FadeCandy boards
 The brightness can be changed too by altering the white point
@@ -147,6 +141,14 @@ The brightness can be changed too by altering the white point
 	]
 }
 
-In another:
+
+
+# Run LightWave
+To run it in one terminal window type (or up arrow :) 
+
+sudo /usr/local/bin/fcserver /usr/local/bin/fcserver.json
+
+
+and leave it. In another:
 
 python3 ~/ledcam/usbcam.py 
