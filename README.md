@@ -2,9 +2,9 @@
 
 
 Note this project began in 2014 and used a raspberry pi B version 1.2. It then was updated in fall 2020 for the P 4. 
-It runs a live feed from a camera to a LED display 16 x 12. 
+It runs a live feed from a camera to a LED display 16 x 21. 
 
-
+![preview](https://github.com/amandalong/amandalong/blob/85254732b372ce10712ec8245e966ca3918a77f1/Images/live%20feed%20neopixels%20LEDs%20with%20fadecandy.jpg)
 
 The following materials are required:
 
@@ -31,6 +31,10 @@ The following materials are required:
 -electrical tape 
 
 -soldering iron 
+
+-HD Dispay (this can be removed after the install)
+
+-HMDI cable
 
 
 Here is how to run it. 
